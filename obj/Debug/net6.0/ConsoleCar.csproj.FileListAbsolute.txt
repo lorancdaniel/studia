@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ConsoleCar.exe
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ConsoleCar.deps.json
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ConsoleCar.runtimeconfig.json
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ConsoleCar.dll
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ref\ConsoleCar.dll
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\bin\Debug\net6.0\ConsoleCar.pdb
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.dll
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ref\ConsoleCar.dll
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.pdb
+C:\Users\Daniel\source\repos\ConsoleCar\ConsoleCar\obj\Debug\net6.0\ConsoleCar.genruntimeconfig.cache
